@@ -17,7 +17,3 @@ It also has some nice development features, like Hot Reload.
 
 To deploy the app, just run `npm run deploy:prd`.  
 It will deploy to the **profile** and **region** specified in the `.env` file.
-
-## Check the article
-
-https://blog.perfect-base.com/nodejs-serverless-graphql
